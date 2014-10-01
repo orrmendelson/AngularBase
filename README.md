@@ -1,4 +1,6 @@
 AngularBase
 ===========
 
-An Angular base project template, for general usage
+An Angular boilerplate.
+Simple. Running. Up to date.
+For everyone. Feel free to contribute and use.
